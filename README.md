@@ -11,7 +11,7 @@ Given details:
 4. Humidity
 
 
-In this Project Spark Java Libraries (http://sparkjava.com/) and Open Weather Api Forcest Services (https://openweathermap.org/ Free) was used.
+In this Project Spark Java Libraries (http://sparkjava.com/) and Open Weather Api Forecast Services (https://openweathermap.org/ Free) was used.
 
 The Project is running with an embeded Jetty Http Server Engine. App uses default port 4567.
 
